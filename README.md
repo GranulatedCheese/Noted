@@ -7,8 +7,8 @@ Noted aims to ease any student's experience by giving them more than just anothe
 
 ## 🎯 Key Features
 
-- ❌ **Cross platform Compatibility:** Noted will be available across multiple platforms such as Mac/Ios, Android, Windows, and Linux.
-- ❌ **Intelligent AI assistant:** Marking text, such as underlining, boxing, etc... will activate LLM use.
+- ❌ **Cross-platform Compatibility:** Noted will be available across multiple platforms such as Mac/iOS, Android, Windows, and Linux.
+- ❌ **Intelligent AI assistant:** Marking text, such as underlining, boxing, etc, will activate LLM use.
 - ❌ **Social Circles:** Users can join their specified classes and share notes among peers without the need for direct communication.
 - ❌ **Flash Cards:** Users can use their created notes to create flash cards and test.
 - ❌ **Second Window:** Users can open a pop-up *in-browser* window that allows them to view external powerpoints/websites.
@@ -16,13 +16,13 @@ Noted aims to ease any student's experience by giving them more than just anothe
 ## 💽 Tech Stack
 
 **Client:** 
-- React *(TypeScript)* and TailwindCSS
+- NextTS
 
-**Server:** 
-- FastAPI *(Python)* and PyTorch *(for now)*
+**API:** 
+- FastAPI
 
 **Database:** 
-- PostGreSQL *(development)*
+- PostGreSQL
 
 
 
