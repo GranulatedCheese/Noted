@@ -15,13 +15,13 @@ Noted aims to ease any student's experience by giving them more than just anothe
 
 ## 💽 Tech Stack
 
-**Client:** 
+*Client:* 
 - NextTS
 
-**API:** 
+*API:*
 - FastAPI
 
-**Database:** 
+*Database:*
 - PostGreSQL
 
 
